@@ -15,3 +15,18 @@ body {
   height: 100%;
   border-radius: 100%;
 }
+
+h1 {
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+}
+
+.bio {
+  width: 75%;
+  margin: 0 auto;
+  padding: 20 px;
+  text-align: center;
+  line-height: 1;
+  font-size: 20px;
+}
