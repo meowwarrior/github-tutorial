@@ -1,13 +1,13 @@
 
 body {
   max-width: 1024px;
-  margin: 0 auto;
+  margin: auto;
 }
 
 .profile {
   max-width: 200px;
   max-height: 200px;
-  margin: 0 auto;
+  margin: auto;
 }
 
 .round-pic {
@@ -17,14 +17,14 @@ body {
 }
 
 h1 {
-  margin: 0 auto;
+  margin: auto;
   width: 100%;
   text-align: center;
 }
 
 .bio {
   width: 75%;
-  margin: 0 auto;
+  margin: auto;
   padding: 20 px;
   text-align: center;
   line-height: 1;
