@@ -1,5 +1,12 @@
+
 body {
-  background: black;
-  color: white;
-  font-size: 32px;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.profile {
+  max-width: 200px;
+  max-height: 200px;
+  margin: 0 auto;
+  border-radius: 100%;
 }
